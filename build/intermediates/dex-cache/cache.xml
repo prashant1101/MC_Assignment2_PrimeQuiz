@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Assignment2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="E:\Assignment2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_2bdfbc25b7dbafaeff87a0067bbdfc57aa296be5\classes.dex" />
+    </item>
+    <item
+        jar="E:\Assignment2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="E:\Assignment2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_b2010e4bc46634b299fabe19a4da815c36dae12c\classes.dex" />
+    </item>
+    <item
+        jar="E:\Assignment2\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="E:\Assignment2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_b9f2fcd91fa5b542665469ae9b5982c59b8b3d9a\classes.dex" />
+    </item>
+    <item
+        jar="E:\Assignment2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="E:\Assignment2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_3fe35716b79aaee1961e52b681eecab0812bd1d6\classes.dex" />
+    </item>
+    <item
+        jar="E:\Assignment2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="E:\Assignment2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_e8ab7bd2ba3a6895a078a1e5fed27da90f6da6be\classes.dex" />
+    </item>
+    <item
+        jar="E:\Assignment2\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="E:\Assignment2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_15e6c58f2d1d0cb6208b1ce4b891e569ab16817a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Prashant\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="E:\Assignment2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_515b826d00595aa3901991c2cd7e6522817dd1d2\classes.dex" />
+    </item>
+    <item
+        jar="E:\Assignment2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c123693537d449ee0ce529abe397c205721c9702">
+        <dex dex="E:\Assignment2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ecf72364a689a9cfd8006ef1c85a96e48ceb8d25\classes.dex" />
+    </item>
+    <item
+        jar="E:\Assignment2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="78a4dc2abb3fad0b366d4b27450463018ad15820">
+        <dex dex="E:\Assignment2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_66c6cb6505d011ee405731c731faa0646ee7506d\classes.dex" />
+    </item>
+    <item
+        jar="E:\Assignment2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="E:\Assignment2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_6a4c427a1fdb00b7677305a0570dda952a37475d\classes.dex" />
+    </item>
+
+</items>
